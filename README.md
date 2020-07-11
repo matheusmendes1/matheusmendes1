@@ -1,4 +1,4 @@
-# 🙍‍♂️ Matheus Mendes
+# 🗣 Matheus Mendes
 
 ## Be extraordinary Welcome!
 
@@ -10,8 +10,8 @@
 ### My name is Matheus or Matthew (feel free to choice), I'm a Salesforce developer, but also passionate about web development
 
 - 🗺 Brazilian
-- ☁ Salesforce Developer
-  - ☁ Salesforce Certified Administrator
 - ✨ Salesforce Trailblazer
 - 📖 Systems Information Degree
-- ♥ In love with NodeJS, React and React Native
+- 💻 In love with NodeJS, React and React Native
+- ☁ Salesforce Developer
+  - ☁ Salesforce Certified Administrator
