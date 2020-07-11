@@ -6,6 +6,9 @@
 
 - 🗺 Brazilian
 - ☁ Salesforce Developer
+  - ☁ Salesforce Certified Administrator
+- ✨ Salesforce Trailblazer
 - 📖 Systems Information Degree
+- ♥ In love with NodeJS, React and React Native
 
-** You can find me at matheusmendes1@hotmail.com **
+**You can find me at matheusmendes1@hotmail.com**
