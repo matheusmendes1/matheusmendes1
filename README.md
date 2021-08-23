@@ -15,3 +15,4 @@
 - 💻 In love with NodeJS, React and React Native
 - ☁ Salesforce Developer
   - ☁ Salesforce Certified Administrator
+  - ☁ Salesforce Certified Developer I
