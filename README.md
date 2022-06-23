@@ -16,3 +16,4 @@
 - ☁ Salesforce Developer
   - ☁ Salesforce Certified Administrator
   - ☁ Salesforce Certified Developer I
+   - ☁ Salesforce Platform App Builder
