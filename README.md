@@ -12,7 +12,7 @@
 - 🗺 Brazilian
 - ✨ Salesforce Trailblazer
 - 📖 Systems Information Degree
-- 💻 In love with NodeJS, React and React Native
+- 💻 In love with NodeJS and React
 - ☁ Salesforce Developer
   - ☁ Salesforce Certified Administrator
   - ☁ Salesforce Certified Developer I
